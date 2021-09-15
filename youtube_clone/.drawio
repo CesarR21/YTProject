@@ -67,7 +67,16 @@
                     <mxGeometry x="65" y="35" width="360" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="38" value="Search" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-                    <mxGeometry x="80" y="80" width="40" height="20" as="geometry"/>
+                    <mxGeometry x="70" y="10" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="Vid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="382.5" y="170" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="VId" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="382.5" y="260" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="Vid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="385" y="340" width="40" height="20" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
